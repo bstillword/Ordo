@@ -34,22 +34,26 @@ Original App Design Project - README
 
 **Required Must-have Stories**
 
-* [User can login]
-* [User can view & make tasks]
-* [User can view other's profiles]
-* [User can take notes & vids to notes]
-* [User can view comments about classes on their schedule & related reviews]
+* [Login]
+* [Task]
+* [Profile]
+* [Note-Taker]
+* [Class View]
 
 **Optional Nice-to-have Stories**
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* [Login]
+* User can login
+* [Task]
+* User can view & make tasks
+* [Profile]
+* User can view other's profiles
+* [Note-Taker]
+* User can take notes & vids to notes
+* [Class View]
+* User can view comments about classes on their schedule & related reviews
 
 ### 3. Navigation
 
