@@ -88,8 +88,7 @@ Original App Design Project - README
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-[Wireframe - iOS Group.pdf](https://github.com/Ordo-Productivity-App/Ordo/files/7465189/Wireframe.-.iOS.Group.pdf)
+[Wireframe - iOS Group.pdf](https://github.com/Ordo-Productivity-App/Ordo/files/7465220/Wireframe.-.iOS.Group.pdf)
 
 ### [BONUS] Digital Wireframes & Mockups
 
